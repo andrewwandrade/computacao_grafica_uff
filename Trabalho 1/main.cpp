@@ -57,7 +57,7 @@ int main(){
       for(int x = 0; x < W; x++)
          I[y][x] = RGB(0x002F56);
    
-   //30 estrelas geradas de forma aleatória -----------------------------
+   //35 estrelas geradas de forma aleatória -----------------------------
 
    int a = 0;
    srand(time(NULL));
